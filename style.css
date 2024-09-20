@@ -1,0 +1,12 @@
+header{
+    background: linear-gradient(rgb(233, 138, 13), rgb(223, 103, 23));
+}
+
+footer{
+    font-weight: bold;
+    background-color: rgb(211, 111, 44);
+}
+
+section{ 
+    background-color: rgb(221, 154, 91);
+}
